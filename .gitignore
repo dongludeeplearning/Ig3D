@@ -148,7 +148,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-data/affectnet_annotations/*
+data/affectnet_annotations/emoca334_merged_train_file.csv
 models/classification/intermediatefusion/final_checkpoint/*
 models/classification/latefusion/savedcheckpoints/*
 models/classification/nofusion/final_checkpoint/*
